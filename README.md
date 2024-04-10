@@ -10,7 +10,6 @@ I've been hacking/coding/teaching others for 3 years now and always learning!
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/thielt)
 *   ✉️  You can contact me at [thielt@ymail.com](mailto:thielt@ymail.com)
 *   🧠  I'm learning Golang, Rust, GraphQL, Node
-*   🤝  I'm open to collaborating on anything!
 
 ### Skills 
 <p align="left">
