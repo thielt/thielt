@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thiel Talicuran
 =======================================================================================================================================
 
-Back-end API Software Engineer
-------------------------------
-
 I've been hacking/coding/teaching others for 3 years now and always learning!
 
 *   🌍  I'm based in Dallas and currently a dev at [Parkhub](https://www.parkhub.com)
