@@ -6,7 +6,7 @@ Back-end API Software Engineer
 
 I've been hacking/coding/teaching others for 3 years now and always learning!
 
-*   🌍  I'm based in Dallas and currently a dev at [Parkhub](parkhub.com)
+*   🌍  I'm based in Dallas and currently a dev at [Parkhub](https://www.parkhub.com)
 *   ✉️  You can contact me at [thielt@ymail.com](mailto:thielt@ymail.com)
 
 ### Skills 
