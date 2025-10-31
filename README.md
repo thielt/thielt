@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =======================================================================================================================================
 
-<p>I've been hacking/coding/teaching others/learning for 4 years</p>
-<p>🌍  I'm based in Texas and currently a dev at Parkhub </p>
+<p>Coding/Teaching/Learning for 4 years</p>
+<p>🌍 Texas-based dev at JustPark </p>
 
 ### Stats
 
